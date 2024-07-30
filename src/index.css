@@ -22,7 +22,6 @@
   margin-right: -8px;
   width: auto;
   height: 100px;
-  background-color: rgb(230, 105, 105);
   display: grid;
   grid-template-columns: auto 700px;
   align-items: center;
@@ -41,7 +40,6 @@
   margin-right: -8px;
   width: auto;
   height: 100px;
-  background-color: rgb(230, 105, 105);
   display: grid;
   align-items: center;
   grid-template-columns:auto 700px;
@@ -54,7 +52,6 @@
   margin-right: -8px;
   width: auto;
   height: 200px;
-  background-color: rgb(230, 105, 105);
   display: grid;
   align-items: center;
   grid-template-columns:auto 400px 250px;
@@ -83,3 +80,26 @@
 .express {width: 65%; background-color: #463275; border-radius: 10px;}
 .sql {width: 50%; background-color: #22c8e6; border-radius: 10px;}
 .db {width: 80%; background-color: #d4229f; border-radius: 10px;}
+
+.container-5{
+  margin-left: -8px;
+  margin-right: -8px;
+  width: auto;
+  height: 400px;
+  display: grid;
+  align-items: center;
+  grid-template-columns:auto 400px 250px;
+  color: white;
+  padding: 150px;
+  background-image: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+}
+.projects{
+  width:300px;
+  height: 100px;
+  border: 5px solid rgb(11, 211, 238);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 25px;
+  color: white;
+}
