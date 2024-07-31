@@ -80,22 +80,23 @@ function App() {
                 <div>
                 <div className='projects'>
                       HTML Markdown viewer
-                      <a href="https://main--regal-alfajores-20ad80.netlify.app/home">view</a>
+                      <a href="https://main--regal-alfajores-20ad80.netlify.app/home" className='fa-beat'>view</a>
                 </div>
                 <br /><br /><br /><br /><br />
                 <div className='projects'>
                   Shopping Cart
-                  <a href="https://main--sweet-kitten-e41d22.netlify.app/">view</a>
+                  <a href="https://main--sweet-kitten-e41d22.netlify.app/" className='fa-beat'>view</a>
                 </div>
                 </div>
                 <div>
                 <div className='projects'>
                     Users Data App
-                    <a href="https://main--sunny-jalebi-e8ffba.netlify.app/">view</a>
+                    <a href="https://main--sunny-jalebi-e8ffba.netlify.app/" className='fa-beat'>view</a>
                 </div>
                 <br /><br /><br /><br /><br />
                 <div className='projects'>
-                 
+                    Dashboard Page
+                    <a href="https://courageous-cassata-f1bdef.netlify.app/dashboard" className='fa-beat'>view</a>
                 </div>
                 </div>
           
