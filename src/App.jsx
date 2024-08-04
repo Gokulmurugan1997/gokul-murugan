@@ -6,11 +6,11 @@ function App() {
           <div  className='container'>
               <h1>I'm Gokul Murugan</h1>
               <div className='container-1'>
-                  <a href="https://www.linkedin.com/in/gokul-murugan-4345b9169"><i className="fa-brands fa-linkedin fa-beat-fade" style={{color: "#f2eeed"}}></i></a>
-                  {'  '}<a href="https://github.com/Gokulmurugan1997"><i className="fa-brands fa-github fa-beat-fade" style={{color: "#f8f8f7"}}></i></a>
+                  <a href="https://www.linkedin.com/in/gokul-murugan-4345b9169" target='_blank'><i className="fa-brands fa-linkedin fa-beat-fade" style={{color: "#f2eeed"}}></i></a>
+                  {'  '}<a href="https://github.com/Gokulmurugan1997" target='_blank'><i className="fa-brands fa-github fa-beat-fade" style={{color: "#f8f8f7"}}></i></a>
               </div><br />
               <div className='resume'>
-                  Resume{' '}<a href="https://drive.google.com/file/d/11nf039gFVGAFqY8fX0HofmDwvKRA13Da/view?usp=drivesdk"><i className="fa-solid fa-download fa-bounce" style={{color: "#f9fbfb"}}></i></a>
+                  Resume{' '}<a href="https://drive.google.com/file/d/11nf039gFVGAFqY8fX0HofmDwvKRA13Da/view?usp=drivesdk" target='_blank'><i className="fa-solid fa-download fa-bounce" style={{color: "#f9fbfb"}}></i></a>
               </div>
           </div>
           <div className='container-2'>
@@ -80,23 +80,23 @@ function App() {
                 <div>
                 <div className='projects'>
                       HTML Markdown viewer
-                      <a href="https://main--regal-alfajores-20ad80.netlify.app/home" className='fa-beat'>view</a>
+                      <a href="https://main--regal-alfajores-20ad80.netlify.app/home" className='fa-beat' target='_blank'>view</a>
                 </div>
                 <br /><br /><br /><br /><br />
                 <div className='projects'>
                   Shopping Cart
-                  <a href="https://main--sweet-kitten-e41d22.netlify.app/" className='fa-beat'>view</a>
+                  <a href="https://main--sweet-kitten-e41d22.netlify.app/" className='fa-beat' target='_blank'>view</a>
                 </div>
                 </div>
                 <div>
                 <div className='projects'>
                     Users Data App
-                    <a href="https://main--sunny-jalebi-e8ffba.netlify.app/" className='fa-beat'>view</a>
+                    <a href="https://main--sunny-jalebi-e8ffba.netlify.app/" className='fa-beat' target='_blank'>view</a>
                 </div>
                 <br /><br /><br /><br /><br />
                 <div className='projects'>
                     Dashboard Page
-                    <a href="https://courageous-cassata-f1bdef.netlify.app/dashboard" className='fa-beat'>view</a>
+                    <a href="https://courageous-cassata-f1bdef.netlify.app/dashboard" className='fa-beat' target='_blank'>view</a>
                 </div>
                 </div>
           
