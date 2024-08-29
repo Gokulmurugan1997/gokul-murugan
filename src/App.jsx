@@ -22,7 +22,7 @@ function App() {
               </div>
           <div className='container-3'>
               <h1 className='heading'> Work </h1>
-              <p className='content'><b>HCLTech – Member Technical Staff - June 2022 to Present</b><br />
+              <p className='content'><b>HCLTech – Member Technical Staff</b><br />
               Supporting in creation of Project Management Web application called PM SMART for tracking daily and monthly efforts of resource utilization for the project.<br/>
               Supporting in improvisation of Employee Self Service website for maximizing user efficiency
               </p>
