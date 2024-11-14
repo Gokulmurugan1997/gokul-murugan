@@ -83,7 +83,7 @@ function App() {
                 <div>
                 <div className='projects'>
                   <div className='image1'></div>
-                      <a href="https://main--regal-alfajores-20ad80.netlify.app/home" target='_blank'><Button className='button'>HTML Markdown viewer</Button></a>
+                      <a href="https://regal-alfajores-20ad80.netlify.app/login" target='_blank'><Button className='button'>HTML Markdown viewer</Button></a>
                       <div>
                       <a href="https://github.com/Gokulmurugan1997/Markdown_Viewer-front-end" target='_blank'><Button className='front'>Front</Button></a>
                       <a href="https://github.com/Gokulmurugan1997/Markdown_Viewer-Back_end" target='_blank'><Button className='back'>Back</Button></a>
@@ -120,15 +120,18 @@ function App() {
                     <div className='image3'>
 
                     </div>
-                    <a href="https://main--sunny-jalebi-e8ffba.netlify.app/" target='_blank'><Button className='button'>Users Data App</Button></a>
+                    <a href="https://67357fe63476bdd306b997c3--tangerine-rabanadas-4af95e.netlify.app/login" target='_blank'><Button className='button'>Fruits and Vegie</Button></a>
                     <div>
-                      <a href="https://github.com/Gokulmurugan1997/axios_task" target='_blank'><Button className='front'>Front</Button></a>
+                      <a href="https://github.com/Gokulmurugan1997/fruit-and-vegetables" target='_blank'><Button className='front'>Front</Button></a>
+                      <a href="https://github.com/Gokulmurugan1997/fruits-and-vegies-backend-app" target='_blank'><Button className='back'>Back</Button></a>
                       </div>
                       <div className='icons'>
                       <i className="fa-brands fa-react" style={{color: "#4ccc28"}}></i>{' '}
+                      <i className="fa-brands fa-node-js" style={{color:"#12de45"}}></i>{" "}
                       <i className="fa-brands fa-js" style={{color: "#FFD43B"}}></i>{' '}
                       <i className="fa-brands fa-html5" style={{color: "#f20736"}}></i>{' '}
                       <i className="fa-brands fa-css3-alt" style={{color: "#74C0FC"}}></i>{' '}
+                      <FaDatabase size={20} color="#4DB33D" />
                       </div>
                 </div>
                 <br /><br /><br /><br /><br />
@@ -136,15 +139,18 @@ function App() {
                 <div className='image4'>
 
                 </div>
-                    <a href="https://courageous-cassata-f1bdef.netlify.app/dashboard" target='_blank'><Button className='button'>Dashboard Page</Button></a>
+                    <a href="https://shimmering-flan-5cdcff.netlify.app/login" target='_blank'><Button className='button'>Basic Full stack App</Button></a>
                     <div>
-                      <a href="https://github.com/Gokulmurugan1997/landing_page" target='_blank'><Button className='front'>Front</Button></a>
+                      <a href="https://github.com/Gokulmurugan1997/ForgetPassword_fe" target='_blank'><Button className='front'>Front</Button></a>
+                      <a href="https://github.com/Gokulmurugan1997/ForgetPassword_be" target='_blank'><Button className='back'>Back</Button></a>
                       </div>
                       <div className='icons'>
                       <i className="fa-brands fa-react" style={{color: "#4ccc28"}}></i>{' '}
+                      <i className="fa-brands fa-node-js" style={{color:"#12de45"}}></i>{" "}
                       <i className="fa-brands fa-js" style={{color: "#FFD43B"}}></i>{' '}
                       <i className="fa-brands fa-html5" style={{color: "#f20736"}}></i>{' '}
                       <i className="fa-brands fa-css3-alt" style={{color: "#74C0FC"}}></i>{' '}
+                      <FaDatabase size={20} color="#4DB33D" />
                       </div>
                 </div>
 
